@@ -4,8 +4,7 @@
 void Main()
 {
 	Window::SetTitle(L"桜前線");
-
-	//player
+	
 	Character player;
 
 	while (System::Update())

@@ -14,6 +14,7 @@ Character::~Character()
 {
 }
 
+// •`‰æŠÖ”
 void Character::draw() {
 	character.draw(Palette::Lightgreen);
 }
